@@ -1,2 +1,2 @@
 # shell-scripting
-Bash Scripting
+Bash Scripting Practice

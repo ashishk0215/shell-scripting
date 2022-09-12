@@ -1,3 +1,2 @@
 # shell-scripting
-Bash Scripting Practice
-Hello
+This is my first commit in readme.
